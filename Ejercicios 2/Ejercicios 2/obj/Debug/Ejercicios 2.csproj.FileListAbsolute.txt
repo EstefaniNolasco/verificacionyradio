@@ -1,0 +1,11 @@
+E:\C#\Ejercicios 2\Ejercicios 2\bin\Debug\Ejercicios 2.exe.config
+E:\C#\Ejercicios 2\Ejercicios 2\bin\Debug\Ejercicios 2.exe
+E:\C#\Ejercicios 2\Ejercicios 2\bin\Debug\Ejercicios 2.pdb
+E:\C#\Ejercicios 2\Ejercicios 2\obj\Debug\Ejercicios 2.csproj.AssemblyReference.cache
+E:\C#\Ejercicios 2\Ejercicios 2\obj\Debug\Ejercicios_2.Form1.resources
+E:\C#\Ejercicios 2\Ejercicios 2\obj\Debug\Ejercicios_2.Properties.Resources.resources
+E:\C#\Ejercicios 2\Ejercicios 2\obj\Debug\Ejercicios 2.csproj.GenerateResource.cache
+E:\C#\Ejercicios 2\Ejercicios 2\obj\Debug\Ejercicios 2.csproj.CoreCompileInputs.cache
+E:\C#\Ejercicios 2\Ejercicios 2\obj\Debug\Ejercicios 2.exe
+E:\C#\Ejercicios 2\Ejercicios 2\obj\Debug\Ejercicios 2.pdb
+E:\C#\Ejercicios 2\Ejercicios 2\obj\Debug\Ejercicios_2.Form2.resources
